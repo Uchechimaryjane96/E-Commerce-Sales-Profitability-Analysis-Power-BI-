@@ -44,13 +44,12 @@ Star schema:
 - `Dim_Calendar`
 
 ## Key Insights
-> Replace these with your actual headline numbers before publishing:
-- Total Sales: $__
-- Total Profit: $__
-- Profit Margin: __%
-- Top Region: __
-- Top Customer: __
-- Highest-Discount Category: __
+- Total Sales
+- Total Profit
+- Profit Margin
+- Top Region
+- Top Customer
+- Highest-Discount Category
 
 ## Dashboard
 ![Dashboard](dashboard.png)
@@ -65,5 +64,5 @@ Star schema:
 
 ## Files
 - `MY_ECOMMERCE_PROJECT_PBI.pbix`
-- `dashboard.png` — dashboard screenshot (add your own)
+- `dashboard.png`  dashboard screenshot
 - `README.md`
